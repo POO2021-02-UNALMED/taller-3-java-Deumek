@@ -4,3 +4,7 @@ build/
 .classpath
 .project
 .settings
+src/test/java/test/junit-jupiter-engine-5.8.1.jar
+src/test/java/test/junit-platform-console-standalone-1.8.1.jar
+src/test/java/mainClass.java
+.vscode
